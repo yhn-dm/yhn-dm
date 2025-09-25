@@ -1,13 +1,13 @@
 # 👋 Salut, moi c’est Yohann
 
-💻 **Développeur Full-Stack**  
+**Développeur Full-Stack**  
 Passionné particulièrement par **l’architecture logicielle et le design de systèmes**,  
 l’**automatisation**, le **machine learning** et l’**IA en tout genre**.  
 J'aspire à maîtriser et faire une carrière particulièrement avec Python à l'avenir.
 
 ---
 
-## 🚀 Ce que je fais  
+## Ce que je fais  
 Mes projets réalisés dans le cadre de **stages**, d’**apprentissage personnel** et de **projets personnels**, vont de :  
 
 - **Scripts Python** – automatisation de comportements web complets (navigation, formulaires, interactions dynamiques) avec **Selenium, Playwright, Chromium headless** ; scraping avancé (**Requests, BeautifulSoup**) ; simulation physique et visualisation (**NumPy, Matplotlib, Pygame**)
