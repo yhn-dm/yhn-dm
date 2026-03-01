@@ -13,8 +13,9 @@ Full-stack developer based in France. I build web apps, landing pages, and autom
 
 **Some stuff I built:**
 - [Tower API Monitoring](https://github.com/yhn-dm/tower-api-monitoring) – Monitor external APIs, track uptime and latency, and see incidents in one place. Real-time dashboard, backend API, and worker (Angular, Express, Node, Prisma, MySQL).
-- [Screen Component UI](https://github.com/yhn-dm/screen-component-ui) – Reusable screen/container UI components and layout primitives for consistent interfaces. *(Replace link if the repo has another name or owner.)*
-- [AI Queue](https://github.com/yhn-dm/ai-queue) – AI task queue or job orchestration for running and scheduling AI-related jobs. *(Replace link if the repo has another name or owner.)*
+- [UI Component Extractor](https://github.com/yhn-dm/ui-component-extractor-chrome-extension) – Chrome extension to extract and screen UI components from any page so you can store them for inspiration or reference in design systems.
+- [Site Mapper](https://github.com/yhn-dm/site-mapper-chrome-extension) – Chrome extension to map a full site and its interconnections: discover structure, links and how pages connect in one place.
+- [Prompt Queue History](https://github.com/yhn-dm/prompt-queue-history-chrome-extension) – Chrome extension for orchestration, productivity and performance: queue prompts, keep history, and run AI workflows without losing context.
 
 
 ---
