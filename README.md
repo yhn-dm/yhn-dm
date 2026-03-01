@@ -1,22 +1,11 @@
-# 👋 Salut, moi c’est Yohann
+# About Me: 
 
-**Développeur Full-Stack**  
-Passionné particulièrement par **l’architecture logicielle et le design de systèmes**,  
-l’**automatisation**, le **machine learning** et l’**IA en tout genre**.  
-J'aspire à maîtriser et faire une carrière particulièrement avec Python à l'avenir.
+Interested in anything about automation & orchestration
 
----
 
-## Ce que je fais  
-Mes projets réalisés dans le cadre de **stages**, d’**apprentissage personnel** et de **projets personnels**, vont de :  
+### 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-- **Scripts Python** – automatisation de comportements web complets (navigation, formulaires, interactions dynamiques) avec **Selenium, Playwright, Chromium headless** ; scraping avancé (**Requests, BeautifulSoup**) ; simulation physique et visualisation (**NumPy, Matplotlib, Pygame**)
-- **CRM complets** – gestion de données et logique métier (**Laravel, MySQL, Blade**)  
-- **Sites vitrines** – développement classique (**JavaScript, Tailwind**) et outils no-code (**Webflow**)  
-- **Applications & sites vitrines React** – SPA et multi-pages avec une architecture claire (**React, Redux, API REST**)  
-- **Maquettes Figma** – landing pages, sites multi-pages, moodboards relatifs aux projets (**Figma**)  
-- **Jeu Unity 2D & 3D** – mécaniques de gameplay et simulation (**Unity, C#**)  
-- **+1 mini logiciels C#** – outils desktop avec interface graphique (**C# .NET**)  
-- **+52 mini-projets d’apprentissage** – HTML/CSS, JavaScript, PHP (exercices, intégrations, interactions DOM, formulaires dynamiques)  
+[![](https://visitcount.itsvg.in/api?id=yhn-dm&icon=3&color=12)](https://visitcount.itsvg.in)
 
-👉 **Note** : La majorité de mes projets sont privés
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
