@@ -12,11 +12,9 @@ Full-stack developer based in France. I build web apps, landing pages, and autom
 ---
 
 **Some stuff I built:**
-- [Project One](https://github.com/yhn-dm/your-repo) – Short description of what it does and why it's interesting.
-- [Project Two](https://github.com/yhn-dm/your-repo) – Another project with a one-line pitch.
-- [Project Three](https://github.com/yhn-dm/your-repo) – Same format, your real project here.
-- [Project Four](https://github.com/yhn-dm/your-repo) – One more project, replace with your repo.
-- [Project Five](https://github.com/yhn-dm/your-repo) – Optional fifth project.
+- [Tower API Monitoring](https://github.com/yhn-dm/tower-api-monitoring) – Monitor external APIs, track uptime and latency, and see incidents in one place. Real-time dashboard, backend API, and worker (Angular, Express, Node, Prisma, MySQL).
+- [Screen Component UI](https://github.com/yhn-dm/screen-component-ui) – Reusable screen/container UI components and layout primitives for consistent interfaces. *(Replace link if the repo has another name or owner.)*
+- [AI Queue](https://github.com/yhn-dm/ai-queue) – AI task queue or job orchestration for running and scheduling AI-related jobs. *(Replace link if the repo has another name or owner.)*
 
 
 ---
