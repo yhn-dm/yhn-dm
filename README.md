@@ -1,7 +1,25 @@
 ![](https://komarev.com/ghpvc/?username=yhn-dm&color=blue)
-## Yhn-dm   
-Interested in anything about automation & orchestration
 
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
+
+Full-stack developer based in France. I build web apps, landing pages, and automation tools. I like making everything short and concise.
+
+**These days I'm focused on:**
+- AI integration, automation and orchestration tools
+- Typescript, React and Angular
+- Cybersecurity and design system
+
+---
+
+**Some stuff I built:**
+- [Project One](https://github.com/yhn-dm/your-repo) – Short description of what it does and why it's interesting.
+- [Project Two](https://github.com/yhn-dm/your-repo) – Another project with a one-line pitch.
+- [Project Three](https://github.com/yhn-dm/your-repo) – Same format, your real project here.
+- [Project Four](https://github.com/yhn-dm/your-repo) – One more project, replace with your repo.
+- [Project Five](https://github.com/yhn-dm/your-repo) – Optional fifth project.
+
+
+---
 
 ### 🧰 Languages and Tools
 
